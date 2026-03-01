@@ -1,6 +1,5 @@
 # About me 👋
-I am a first year UW Seattle undergrad student😃
-- 🌱 I’m currently learning HTML, JS, CSS, and TypeScript(it is a lot!)
+I am a junior at UW Seattle studying Computer Science😃
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite movie is Jurassic Park
 <!--
