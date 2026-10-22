@@ -1,5 +1,5 @@
 # About me 👋
-I am a junior at UW Seattle studying Computer Science😃
+I am a senior at UW Seattle studying Computer Science😃
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite movie is Jurassic Park
 <!--
